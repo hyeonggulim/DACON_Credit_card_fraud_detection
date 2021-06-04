@@ -1,6 +1,6 @@
-# DACON_Credit_card_fraud_detection
+# DACON_Credit_card_fraud_detection (4위 수상)
 
 
 
 5월 11일
-K-Fold 적용된 코드를 Finalize 하여 전체 데이터 학습 -> 성능 조금 향상
+Public 은 1등을 하고 있었지만 아쉽게도 Private 에서 5등을 기록했고 최종에서는 4등을 수상하였습니다.
